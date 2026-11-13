@@ -18,13 +18,13 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : SHAKIB BHAIYA
-│ 🧸 Nɪᴄᴋ       : SHAKIB
-│ 🎂 Aɢᴇ        : 18+
+│ 👤 Nᴀᴍᴇ       : SHISHIR VAIYA
+│ 🧸 Nɪᴄᴋ       : SHISHIR
+│ 🎂 Aɢᴇ        : 16+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
 │ 🎓 Pʀᴏғᴇssɪᴏɴ : Sᴛᴜᴅᴇɴᴛ
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : ENTAR 2ɴᴅ Yᴇᴀʀ
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : BOGURA - sibgonj
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : Class 10
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : Khulna - Meherpur
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📘 Facebook  :https://www.facebook.com/share/14kzMdXC3mg/ 
 │ 💬 Messenger:https://www.facebook.com/share/14kzMdXC3mg/ 
